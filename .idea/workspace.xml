@@ -62,7 +62,7 @@
     "Python.task_4.executor": "Run",
     "Python.task_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "develop",
+    "git-widget-placeholder": "#1 on develop",
     "last_opened_file_path": "C:/Users/rokst/PycharmProjects/Sprint_1/tasks/task_5.py",
     "settings.editor.selected.configurable": "project.propVCSSupport.ChangelistConflict"
   }
@@ -130,8 +130,8 @@
     </configuration>
     <list>
       <item itemvalue="Python.task_5" />
-      <item itemvalue="Python tests.pytest for " />
       <item itemvalue="Python tests.Python tests for main.test2_sum" />
+      <item itemvalue="Python tests.pytest for " />
     </list>
     <recent_temporary>
       <list>
