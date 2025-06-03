@@ -1,11 +1,11 @@
 class Tester:
 
-    def __init__(name):
-        name = name
-        deadline = True
+    def __init__(self, name):
+        self.name = name
+        self.deadline = True
 
-    def work_hard(self, deadline=True):
-        if self.deadline:
+    def work_hard(self, deadline: bool = True):
+        if deadline:
             print(self.name, 'Что ж, ещё часок поработаю!')
         else:
             print(self.name, 'Можно отдыхать')
